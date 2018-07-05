@@ -1,0 +1,4 @@
+Name,Type,Min.,Max.,Default,Short Description
+sum,Integer,0,1000,100,The amount of points the proposer splits
+n,Integer,1,1000,1,n
+condition,Integer,0,1,0,condition
